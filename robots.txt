@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sujonmahmudm53-ux.github.io/my-website/sitemap.xml
